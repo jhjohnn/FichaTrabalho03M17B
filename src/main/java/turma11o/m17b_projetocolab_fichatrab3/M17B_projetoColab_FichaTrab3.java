@@ -32,7 +32,8 @@ public class M17B_projetoColab_FichaTrab3 {
         
         // NOVO CÓDIGO SÓ ABAIXO DESTA LINHA 
               
-
+        poligonos[6] = new Retangulo("a22145", 6, 7);
+        System.out.println(poligonos[6]);
        
         
 
